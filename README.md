@@ -2,11 +2,11 @@
 ## Introduction
  An Auto Compiling tool for MinGw C/C++ which Compiles your C/C++ Code once it's changes are Saved.
 ## Download Binaries
- You can Download Binaries from our [Website Downloads](https://realdev04.github.io/index.html#features4-b)
+ You can Download Binaries from our [Website Downloads](https://nimsara-c.github.io/index.html#features4-b)
 ## Installation
- Go and Read our [Website Docs](https://realdev04.github.io/index.html#features3-8)
+ Go and Read our [Website Docs](https://nimsara-c.github.io/index.html#features3-8)
 ## Configuration
- Go and Read our [Website Docs](https://realdev04.github.io/index.html#features3-8)
+ Go and Read our [Website Docs](https://nimsara-c.github.io/index.html#features3-8)
 ## Usage
  **Auto compiler is a Very easy to use Tool.**
  <br>
